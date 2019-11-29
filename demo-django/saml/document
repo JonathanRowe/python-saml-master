@@ -1,0 +1,5 @@
+参考文档：https://developers.onelogin.com/saml/python
+
+idp:身份提供者
+
+sp:服务商 （重要提示：确保您的网址以开头http，而不是  https。）

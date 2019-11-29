@@ -1,0 +1,4 @@
+Django==1.11.26
+isodate
+lxml
+dm.xmlsec.binding==1.3.7
