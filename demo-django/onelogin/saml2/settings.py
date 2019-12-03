@@ -247,6 +247,11 @@ class OneLogin_Saml2_Settings(object):
 
         return self.__load_settings_from_dict(settings)
 
+    def __load_settings_from_database(self):
+        pass
+        #TODO:...
+
+
     def __add_default_values(self):
         """
         Add default values if the settings info is not complete
