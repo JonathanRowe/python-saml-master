@@ -1,4 +1,4 @@
-Django==1.11.26
+Django==1.11.29
 isodate
 lxml
 dm.xmlsec.binding==1.3.7
